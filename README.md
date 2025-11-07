@@ -1,2 +1,3 @@
 # HPSO-FDTR
-MATLAB implementation of Hybrid Particle Swarm Optimization (HPSO) + BFGS for FDTR inversion; includes demo scripts, docs, and reproducible settings.
+MATLAB code package based on FDTR (Frequency-Domain Thermoreflectance) experiments. The implementation includes:
+Hybrid PSO-Quasi-Newton optimization for parameter estimation, FDTR signal simulation with multi-layer thermal modeling.
